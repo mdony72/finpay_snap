@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js"></script>
+    <body>
+        <div class="row">
+            <div class="col-12">
+                <div style="padding:20px;margin-top:50px;">
+                    <center>
+                        <h3>Transaksi Anda<br>sedang di proses</h3><br>
+                        <img src="src/waiting.png" style="width:300px;"><br><br>
+                        <span>Lihat tab baru Anda untuk menyelesaikan transaksi</span>
+                        <!--<br><br><br>-->
+                        <!--<button type="button" class="btn btn-danger">Cek status pembayaran</button>-->
+                    </center>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
