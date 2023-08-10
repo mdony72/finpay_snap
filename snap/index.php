@@ -2,6 +2,7 @@
 $request = $_GET['request'];
 $decode = base64_decode($request);
 $decode_array = json_decode($decode, true);
+require_once(dirname(__FILE__) . '/../Finpay.php');
 ?>
 <!DOCTYPE html>
 <html>
